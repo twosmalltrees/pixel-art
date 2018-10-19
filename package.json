@@ -1,0 +1,14 @@
+{
+  "name": "pixel-art",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "serve": "parcel serve index.html --open"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.3"
+  }
+}
